@@ -20,3 +20,6 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
+
+
+<img src="https://raw.githubusercontent.com/raflesngln/my-nuxt-js/master/Capture.JPG" alt="My cool logo"/>
